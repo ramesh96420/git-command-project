@@ -1,1 +1,5 @@
-hello world java
+public class DateUtils{
+	public String convertDateToString(){
+		return "Hello DateUtils";
+	}
+}
